@@ -1,0 +1,6 @@
+@GuildService_HostAddress = http://localhost:5222
+
+GET {{GuildService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

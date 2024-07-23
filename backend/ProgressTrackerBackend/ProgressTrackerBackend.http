@@ -1,6 +1,0 @@
-@ProgressTrackerBackend_HostAddress = http://localhost:5152
-
-GET {{ProgressTrackerBackend_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
